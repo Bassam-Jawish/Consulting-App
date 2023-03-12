@@ -89,7 +89,10 @@ Hit me on
 
 ## Contributing
 
- [@batoul-khadamaljame](https://github.com/batoul-khadamaljame)
+This project was done with:
+
+[@Bassam-Jawish](https://github.com/Bassam-Jawish)
+[@batoul-khadamaljame](https://github.com/batoul-khadamaljame)
 
 
 Pull requests are welcome.
