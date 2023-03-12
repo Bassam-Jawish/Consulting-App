@@ -44,8 +44,6 @@ https://user-images.githubusercontent.com/103205476/224577283-b51d3022-0331-41fb
 
 ## Screenshots
 
-<img src = "screenshots/presentation.png" width = "850" height = "450" >
-
 <p float="left">
   <img src="screenshots/Screenshot_20230312_004249_Gallery.jpg" width="220" height = "450"/>
   <img src="screenshots/Screenshot_20230312_004300_Gallery.jpg" width="220" height = "450"/> 
@@ -90,5 +88,7 @@ Hit me on
 [![LinkedIn](https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png)](https://www.linkedin.com/in/bassam-jawish/)
 
 ## Contributing
+
+
 
 Pull requests are welcome.
