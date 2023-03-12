@@ -89,7 +89,7 @@ Hit me on
 
 ## Contributing
 
- [@batoul-khadamaljame] ([https://www.github.com/username](https://github.com/batoul-khadamaljame))
+ [@batoul-khadamaljame](https://github.com/batoul-khadamaljame)
 
 
 Pull requests are welcome.
