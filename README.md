@@ -76,10 +76,10 @@ https://user-images.githubusercontent.com/103205476/224577283-b51d3022-0331-41fb
 
 ## Tools
 
-Front-end: Dart - Flutter framework
-Back-end: Php - Laravel framework
-State Management: Bloc
-Data Networking: Dio package
+- Front-end: Dart - Flutter framework
+- Back-end: Php - Laravel framework
+- State Management: Bloc
+- Data Networking: Dio package
 
 ## Questions?🤔
 
@@ -89,6 +89,7 @@ Hit me on
 
 ## Contributing
 
+ [@batoul-khadamaljame] ([https://www.github.com/username](https://github.com/batoul-khadamaljame))
 
 
 Pull requests are welcome.
